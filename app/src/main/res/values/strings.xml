@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">VSkoolKotlin</string>
+    <string name="intro_button">Commencer</string>
+    <string name="welcomepage_firsttext">Pour vous connecter à votre école digitale, rien de plus simple!</string>
+    <string name="welcomepage_secondtext">Ça se passe en 2 étapes :</string>
+    <string name="welcomepage_thirdttext">Identification de votre école</string>
+    <string name="welcomepage_fourthtext">Votre login et mot de passe</string>
+    <string name="welcomepage_fithtext">  Votre école vous a déja communiqué ces informations. Si vous ne les avez pas reçu, veuillez contacter votre école.</string>
+
+
+    <string name="identificationnum_title">Numéro d\'identification de l\'école</string>
+    <string name="identificationnum_maintitle">Entrez le numéro d\'identification que la direction de l\'école vous a donné au début du semestre.</string>
+    <string name="next"> Continuer </string>
+    <string name="error_otp"> Veuillez entrer le code de l\'ecole pour continuer</string>
+
+
+    <string name="login_title">S\'identifier</string>
+    <string name="login_subtitle">Bienvenue , connectez-vous pour continuer.</string>
+    <string name="login_login">S\'identifier</string>
+    <string name="login_hint">Entrez votre identifiant</string>
+    <string name="login_password">Entrez votre mot de passe</string>
+    <string name="change_school"><u><i>Changer votre école</i></u></string>
+    <string name="forget_pasword">Mot de passe oublié ?</string>
+    <string name="login">S\'identifier</string>
+    <string name="invalid_username">Nom d\'utilisateur/mot de passe invalide</string>
+    <string name="inaccessible_role">Rôle inaccessible</string>
+
+</resources>
